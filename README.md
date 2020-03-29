@@ -1,4 +1,5 @@
-# small_script
-this script can be used to run any command on your shell 
-and return the same.
-just call the funtion and thats all :)
+# pyshell
+This script aims to provide a small utility by leveraging python-subprocess module.
+NO LICENSE guys :p jk, theres no such a need for this one.
+
+PS - read the Script for better understanding
